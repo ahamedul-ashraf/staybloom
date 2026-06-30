@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://ahamedul-ashraf.github.io/staybloom/sitemap.xml
