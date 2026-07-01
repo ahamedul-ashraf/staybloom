@@ -1,28 +1,27 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-  <url>
-    <loc>https://ahamedul-ashraf.github.io/staybloom/</loc>
-    <lastmod>2025-07-01</lastmod>
-    <priority>1.0</priority>
-  </url>
-
-  <url>
-    <loc>https://ahamedul-ashraf.github.io/staybloom/listings.html</loc>
-    <lastmod>2025-07-01</lastmod>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://ahamedul-ashraf.github.io/staybloom/about.html</loc>
-    <lastmod>2025-07-01</lastmod>
-    <priority>0.6</priority>
-  </url>
-
-  <url>
-    <loc>https://ahamedul-ashraf.github.io/staybloom/contact.html</loc>
-    <lastmod>2025-07-01</lastmod>
-    <priority>0.6</priority>
-  </url>
-
+<?xml version="1.0" encoding="UTF-8"?> 
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+<url>
+  <loc>http://ahamedul-ashraf.github.io/index.html</loc>
+  <lastmod>2026-07-01</lastmod>
+</url>
+<url>
+  <loc>http://ahamedul-ashraf.github.io/listings.html</loc>
+  <lastmod>undefined-undefined-2026-07-01</lastmod>
+</url>
+<url>
+  <loc>http://ahamedul-ashraf.github.io/about.html</loc>
+  <lastmod>undefined-undefined-undefined-undefined-2026-07-01</lastmod>
+</url>
+<url>
+  <loc>http://ahamedul-ashraf.github.io/contact.html</loc>
+  <lastmod>undefined-undefined-undefined-undefined-undefined-undefined-2026-07-01</lastmod>
+</url>
+<url>
+  <loc>http://ahamedul-ashraf.github.io/property.html</loc>
+  <lastmod>undefined-undefined-undefined-undefined-undefined-undefined-undefined-undefined-2026-07-01</lastmod>
+</url>
+<url>
+  <loc>http://ahamedul-ashraf.github.io/sitemap.xml</loc>
+  <lastmod>undefined-undefined-undefined-undefined-undefined-undefined-undefined-undefined-undefined-undefined-2026-07-01</lastmod>
+</url>
 </urlset>
