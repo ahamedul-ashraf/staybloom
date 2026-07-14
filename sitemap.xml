@@ -1,5 +1,35 @@
-https://ahamedul-ashraf.github.io/staybloom/index.html	2026-07-14T18:02:30+00:00	daily	0.8000
-https://ahamedul-ashraf.github.io/staybloom/listings.html	2026-07-14T18:02:30+00:00	daily	0.8000
-https://ahamedul-ashraf.github.io/staybloom/blog.html	2026-07-14T18:02:30+00:00	daily	0.8000
-https://ahamedul-ashraf.github.io/staybloom/sitemap.xml	2026-07-14T18:02:30+00:00	daily	0.8000
-https://ahamedul-ashraf.github.io/staybloom/blog-post.html
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="/download/8ea8b23ee-b42d5d327/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <url>
+       <loc>https://ahamedul-ashraf.github.io/staybloom/index.html</loc>
+       <lastmod>2026-07-14T18:02:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://ahamedul-ashraf.github.io/staybloom/listings.html</loc>
+       <lastmod>2026-07-14T18:02:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://ahamedul-ashraf.github.io/staybloom/blog.html</loc>
+       <lastmod>2026-07-14T18:02:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://ahamedul-ashraf.github.io/staybloom/sitemap.xml</loc>
+       <lastmod>2026-07-14T18:02:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.8000</priority>
+  </url>
+  <url>
+       <loc>https://ahamedul-ashraf.github.io/staybloom/blog-post.html</loc>
+       <lastmod>2026-07-14T18:02:30+00:00</lastmod>
+       <changefreq>daily</changefreq>
+       <priority>0.6400</priority>
+  </url>
+</urlset>
